@@ -25,28 +25,28 @@ const Home = () => {
 					<TheCard 
 					title="Titulo 1" 
 
-					text="Textooooo wuaaa"/>
+					text="🫡Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui voluptatum minus odit odio illo ex quod, ipsam, amet temporibus recusandae optio molestiae veniam dolor, reiciendis quam deleniti! Consectetur, at quas!" />
 					</Col>
 
 					<Col>
 					<TheCard 
 					title="Titulo 2" 
 					
-					text="aprendiendo a usar los props 👀"/>
+					text="🌩️Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui voluptatum minus odit odio illo ex quod, ipsam, amet temporibus recusandae optio molestiae veniam dolor, reiciendis quam deleniti! Consectetur, at quas!"/>
 					</Col>
 
 					<Col>
 					<TheCard 
 					title="Titulo 3" 
 					
-					text="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui voluptatum minus odit odio illo ex quod, ipsam, amet temporibus recusandae optio molestiae veniam dolor, reiciendis quam deleniti! Consectetur, at quas!"/>
+					text="🥸Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui voluptatum minus odit odio illo ex quod, ipsam, amet temporibus recusandae optio molestiae veniam dolor, reiciendis quam deleniti! Consectetur, at quas!"/>
 					</Col>
 
 					<Col>
 					<TheCard 
 					title="Titulo 4" 
 					
-					text="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui voluptatum minus odit odio illo ex quod, ipsam, amet temporibus recusandae optio molestiae veniam dolor, reiciendis quam deleniti! Consectetur, at quas!"/>
+					text="😎Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui voluptatum minus odit odio illo ex quod, ipsam, amet temporibus recusandae optio molestiae veniam dolor, reiciendis quam deleniti! Consectetur, at quas!"/>
 					</Col>
 				
 				</Row>

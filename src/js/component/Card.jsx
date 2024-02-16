@@ -15,11 +15,12 @@ function TheCard(props) {
         </div>
 
         <div className='d-flex justify-content-center m-2'>
-        <Card.Text>
-          {props.text}
+        <Card.Text className='d-flex justify-content-center'>
+          <p className='p-0 m-0 text-center'>{props.text}</p>
         </Card.Text>
         </div>
 
+          
         <div className='d-flex justify-content-center'>
         <Button variant="primary">Find Out More</Button>
         </div>
